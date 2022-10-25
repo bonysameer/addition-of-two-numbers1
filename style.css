@@ -1,0 +1,43 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  background-color: aquamarine;
+  text-align: center;
+  font-family: 'Fuzzy Bubbles', cursive;
+
+}
+input {
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+.bar1 {
+  position: absolute;
+}
+.field {
+  margin-bottom: 30px;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+}
+.btn {
+  margin-top: 50px;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  margin-left: 100px;
+  font-size: 20px;
+  background-color: burlywood;
+  color: #fff;
+  font-weight: 700;
+}
+p {
+  font-size: 60px;
+}
